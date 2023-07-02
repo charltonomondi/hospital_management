@@ -53,7 +53,7 @@
             </form> 
              <!----------Login form ends here----->
 
-            <p class="text-center">Created By - <a href="#">Charlie C.E.O</a></p>
+            
 
         </div>
 
